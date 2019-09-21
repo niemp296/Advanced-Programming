@@ -1,0 +1,6 @@
+﻿  Actor.cpp
+c:\users\niemp\downloads\diggerman-skeleton-windows\diggerman-skeleton-windows\diggerman\diggerman\actor.cpp(394): warning C4018: '>': signed/unsigned mismatch
+c:\users\niemp\downloads\diggerman-skeleton-windows\diggerman-skeleton-windows\diggerman\diggerman\actor.cpp(435): warning C4018: '>': signed/unsigned mismatch
+  StudentWorld.cpp
+  Generating Code...
+  DiggerMan.vcxproj -> C:\Users\niemp\Downloads\DiggerMan-skeleton-windows\DiggerMan-skeleton-windows\DiggerMan\Debug\DiggerMan.exe
