@@ -1,5 +1,5 @@
 # Digger Man Game
-Project description link: https://www.luminpdf.com/viewer/5df1b2e98fe72f0019623feb
+Project description link: https://drive.google.com/file/d/1HoMAy93NNtJHy2NDbJbNbSB5DZ6XN8Ju/view?usp=sharing
 
 ## Introduction 
 
