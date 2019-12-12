@@ -1,6 +1,15 @@
 # Digger Man Game
 Project description link: https://www.luminpdf.com/viewer/5df1b2e98fe72f0019623feb
 
+## Introduction 
+
+ElCo corporate spies have learned that SanMo is planning to release a new game, called DiggerMan, and would like you to program an exact copy so ElCo can beat SanMo to the market. To help you, ElCo corporate spies have managed to steal a prototype DiggerMan executable file and several source files from the SanMo headquarters, so you can see exactly how your version of the game must work (see posted executable file) and even get a head start on the programming. Of course, such behavior would never be appropriate in real life, but for this project, you’ll be a programming villain. 
+In DiggerMan, the player has to dig underground tunnels through an oil field looking for oil. After the player has gathered all available oil within a particular field, the level is completed and the player advances to a new, more difficult oil field. 
+Here is an example of what the DiggerMan game looks like: 
+
+
+## Project write up
+
 Credit to James and Syndy.
 This is a group project written in C++ in my Advanced Programming in C++ class.
 The only files my team modify are Actor.h, Actor.cpp, StudentWorld.h, and StudentWorld.cpp
