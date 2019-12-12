@@ -7,6 +7,7 @@ ElCo corporate spies have learned that SanMo is planning to release a new game, 
 In DiggerMan, the player has to dig underground tunnels through an oil field looking for oil. After the player has gathered all available oil within a particular field, the level is completed and the player advances to a new, more difficult oil field. 
 Here is an example of what the DiggerMan game looks like: 
 
+![Diggerman](https://user-images.githubusercontent.com/28214466/70681596-b5b94200-1c50-11ea-83b8-b5a9a708bc4c.png)
 
 ## Project write up
 
